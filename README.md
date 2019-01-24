@@ -1,5 +1,5 @@
 [![Build Status](https://img.shields.io/travis/google/glog/master.svg?label=Travis)](https://travis-ci.org/google/glog/builds)
-[![Grunt status](https://img.shields.io/appveyor/ci/google/glog/master.svg?label=Appveyor)](https://ci.appveyor.com/project/google/glog/history)
+[![Grunt Status](https://ci.appveyor.com/projects/status/github/google-admin/glog?branch=master&svg=true)](https://ci.appveyor.com/project/google-admin/glog)
 
 This repository contains a C++ implementation of the Google logging
 module.  Documentation for the implementation is in doc/.
